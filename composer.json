@@ -1,0 +1,17 @@
+{
+    "name": "vendor/samir",
+    "description": "brief_combat",
+    "type": "composer",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Samir\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "samir",
+            "email": "samir.yakhlef30@gmail.com"
+        }
+    ],
+    "require": {}
+}
